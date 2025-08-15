@@ -15,7 +15,7 @@
           <use xlink:href="#icon-twitter" />
         </svg>
       </a>
-      <a href="https://github.com/tobinbradley/community_compass" rel="noopener" target="_blank" class="transition-colors duration-300 ease-in-out hover:text-blue-500" title="Source code on Github">
+      <a href="https://github.com/gencharitaci/community_compass" rel="noopener" target="_blank" class="transition-colors duration-300 ease-in-out hover:text-blue-500" title="Source code on Github">
         <svg class="w-8 h-8 fill-current inline-block">
           <use xlink:href="#icon-github" />
         </svg>

@@ -2,7 +2,7 @@
 
 Community Compass is a multi-variate report making tool based on the Quality of Life project, built with [Svelte](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com/), and [Leaflet](https://leafletjs.com/). The development and build environment is [Vite](https://vitejs.dev/). It is designed to use data directly from the Quality of Life site.
 
-Site: [https://mcmap.org/compass](https://mcmap.org/compass)
+Site: [https://maps.mecklenburgcountync.gov/compass](https://maps.mecklenburgcountync.gov/compass)
 
 ## Architecture
 
@@ -17,7 +17,7 @@ Community Compass is a single page application (SPA) and progressive web app (PW
 
 ### Clone the project
 ```bash
-git clone https://github.com/tobinbradley/community_compass.git
+git clone https://github.com/gencharitaci/community_compass.git
 ```
 
 ### Install dependencies

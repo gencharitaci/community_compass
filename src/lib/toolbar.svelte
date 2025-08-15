@@ -102,7 +102,7 @@
             >Download Chart
           </button>
           {/if}
-          <a target="_blank" href={`https://mcmap.org/qol/data/meta/${metric.metric}.html`}
+          <a target="_blank" href={`https://maps.mecklenburgcountync.gov/qol/data/meta/${metric.metric}.html`}
             on:click={() => isOpen = false}>View Metadata
           </a>
         </div>

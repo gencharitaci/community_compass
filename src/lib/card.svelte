@@ -25,7 +25,7 @@
     const fetchGeograpny = await fetch(card.geography || "data/npa.geojson.json")
     geography = await fetchGeograpny.json()
     // get data
-    const fetchData = await fetch(`https://mcmap.org/qol/data/metric/${card.metric}.json`)
+    const fetchData = await fetch(`https://maps.mecklenburgcountync.gov/qol/data/metric/${card.metric}.json`)
     data = await fetchData.json()
     year = data.years[data.years.length - 1]
   })
