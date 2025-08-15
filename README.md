@@ -17,7 +17,7 @@ Community Compass is a single page application (SPA) and progressive web app (PW
 
 ### Clone the project
 ```bash
-git clone https://github.com/tobinbradley/community_compass.git
+git clone https://github.com/gencharitaci/community_compass.git
 ```
 
 ### Install dependencies
